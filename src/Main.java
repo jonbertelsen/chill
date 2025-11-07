@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Chill Streamingtjeneste");
+        System.out.println("Vi laver lige en lille ændring");
     }
 
 
